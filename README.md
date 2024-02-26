@@ -3,6 +3,7 @@
 ---
 
 ***
+![paper](https://github.com/WaterPurify/README_example_Source/assets/86897220/d2ad60fb-7dfd-43bd-ad15-dd997c2491be)
 
 ___
 
